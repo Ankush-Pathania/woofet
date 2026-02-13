@@ -778,6 +778,7 @@
       }
   
       header {
+        border-bottom: 1px solid #b0b0b0;
         .collapse {
           &.show {
             background: #fff;
@@ -915,7 +916,6 @@
   
       footer {
         margin-top: 60px;
-  
         .text-center {
           padding-top: 0;
         }
