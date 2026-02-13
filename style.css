@@ -125,7 +125,7 @@
     background-color: #fff;
   
     h2 {
-      font-size: 48px;
+      font-size: 36px;
       font-weight: 600;
       color: var(--primary);
     }
@@ -397,7 +397,7 @@
         .left_content {
           h2 {
             color: var(--white);
-            font-size: 44px;
+            font-size: 36px;
             padding-bottom: 30px;
           }
   
@@ -708,7 +708,7 @@
       }
   
       h2 {
-        font-size: 34px;
+        font-size: 28px;
       }
   
       header {
@@ -850,12 +850,7 @@
             align-items: center;
           }
   
-          .left_content {
-            h2 {
-              font-size: 34px;
-            }
-  
-          }
+         
         }
   
         .meet_experts {
@@ -1078,7 +1073,10 @@
           }
         }
       }
-  
+      .how_we_help {
+        p {
+  width: 100%;
+        }}
       .why_US_trusts {
         .features {
           .feature {
@@ -1087,7 +1085,7 @@
         }
       }
     }
-  
+    
     footer {
       .social_links {
         width: 70%;
